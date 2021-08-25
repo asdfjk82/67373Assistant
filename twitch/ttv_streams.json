@@ -1,4 +1,27 @@
 {
-  "title": "开播通知群：电报：t.me/FaFa67373",
-  "timestamp": 1629736853
+  "yt": {
+    "data": [
+      {
+        "id": "43417152685",
+        "user_id": "117348035",
+        "user_login": "et_1231",
+        "user_name": "依渟",
+        "game_id": "509658",
+        "game_name": "Just Chatting",
+        "type": "live",
+        "title": "又是王氣質 好扯 ( ⸝•ᴗ•⸝)♡ 8/25",
+        "viewer_count": 4281,
+        "started_at": "2021-08-25T14:00:44Z",
+        "language": "zh",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_et_1231-{width}x{height}.jpg",
+        "tag_ids": [
+          "74c92063-a389-4fd2-8460-b1bb82b04ec7"
+        ],
+        "is_mature": false
+      }
+    ],
+    "pagination": {}
+  },
+  "ttv": null,
+  "timestamp": 1629907630
 }
