@@ -1,5 +1,22 @@
 {
   "yt": null,
-  "ttv": null,
-  "timestamp": 1629998286
+  "ttv": {
+    "id": "43448407293",
+    "user_id": "37402112",
+    "user_login": "shroud",
+    "user_name": "shroud",
+    "game_id": "493551",
+    "game_name": "Conan Exiles",
+    "type": "live",
+    "title": "Private Server PvE.                   |                       @shroud FOLLOW ME!!",
+    "viewer_count": 16833,
+    "started_at": "2021-08-27T19:03:07Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-{width}x{height}.jpg",
+    "tag_ids": [
+      "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+    ],
+    "is_mature": false
+  },
+  "timestamp": 1630123597
 }
