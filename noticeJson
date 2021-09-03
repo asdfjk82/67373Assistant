@@ -1,5 +1,7 @@
 {
   "yt": null,
-  "ttv": null,
-  "timestamp": 1630230070
+  "ttv": {
+    "ttv_ts": 1630677896
+  },
+  "timestamp": 1630677896
 }
