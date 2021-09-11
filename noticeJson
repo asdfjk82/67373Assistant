@@ -1,7 +1,11 @@
 {
-  "yt": null,
+  "yt": {
+    "yt_ts": 1631352852,
+    "videoId": "XvxCScyCqKU",
+    "sch": 1631363400
+  },
   "ttv": {
     "ttv_ts": 1630953897
   },
-  "timestamp": 1630953897
+  "timestamp": 1631352852
 }
