@@ -1,8 +1,6 @@
 {
   "yt": {
-    "yt_ts": 1633351055,
-    "videoId": "ryg3DImZf5E",
-    "title": "陈一发儿直播"
+    "yt_ts": 1633357748
   },
   "ttv": {
     "id": "43949524397",
@@ -21,5 +19,5 @@
     "is_mature": true,
     "ttv_ts": 1633357689
   },
-  "timestamp": 1633357689
+  "timestamp": 1633357748
 }
