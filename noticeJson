@@ -6,7 +6,21 @@
     "sch": 1637152200
   },
   "ttv": {
-    "ttv_ts": 1636997643
+    "id": "44464503949",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 8,
+    "started_at": "2021-11-17T12:07:56Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1637150923
   },
-  "timestamp": 1637136203
+  "timestamp": 1637150923
 }
