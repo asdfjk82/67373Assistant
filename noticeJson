@@ -11,13 +11,15 @@
     "game_name": "Just Chatting",
     "type": "live",
     "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
+    "viewer_count": 931,
     "started_at": "2021-11-17T16:22:21Z",
     "language": "zh",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
+    "tag_ids": [
+      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
+    ],
     "is_mature": false,
-    "ttv_ts": 1637166174
+    "ttv_ts": 1637168396
   },
-  "timestamp": 1637167764
+  "timestamp": 1637168396
 }
