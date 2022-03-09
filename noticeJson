@@ -6,7 +6,21 @@
     "sch": 1646829000
   },
   "ttv": {
-    "ttv_ts": 1646678281
+    "id": "45787853949",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "512953",
+    "game_name": "Elden Ring",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-03-09T12:38:19Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1646829517
   },
-  "timestamp": 1646822892
+  "timestamp": 1646829517
 }
