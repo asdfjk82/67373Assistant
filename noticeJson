@@ -5,21 +5,7 @@
     "title": "陈一发儿：小区被封，居家办公~"
   },
   "ttv": {
-    "id": "45974119293",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "512953",
-    "game_name": "Elden Ring",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-03-26T12:41:19Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1648298501
+    "ttv_ts": 1648301128
   },
-  "timestamp": 1648298570
+  "timestamp": 1648301128
 }
