@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1651916932,
-    "videoId": "_XOvWYdcEBQ",
-    "title": "陈一发儿：shanghai小区封45天了哎 0 0",
-    "sch": 1651926600
+    "yt_ts": 1651944726
   },
   "ttv": {
-    "id": "39310618391",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "512953",
-    "game_name": "Elden Ring",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-05-07T12:37:22Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1651927064
+    "ttv_ts": 1651944963
   },
-  "timestamp": 1651927064
+  "timestamp": 1651944963
 }
