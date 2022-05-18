@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1652549138
+    "yt_ts": 1652866988,
+    "videoId": "li0KAmKRGvU",
+    "title": "陈一发儿：烦死啦",
+    "sch": 1652877000
   },
   "ttv": {
-    "ttv_ts": 1652783557
+    "id": "39336836471",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-05-18T12:34:55Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1652877326
   },
-  "timestamp": 1652783557
+  "timestamp": 1652877326
 }
