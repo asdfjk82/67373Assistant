@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1653155823
+    "yt_ts": 1653441379,
+    "videoId": "tGcW1ICJfvk",
+    "title": "陈一发儿：5.25 Anything could happen Wednesday",
+    "sch": 1653481800
   },
   "ttv": {
-    "ttv_ts": 1653329012
+    "id": "39354978967",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-05-25T12:37:51Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1653482296
   },
-  "timestamp": 1653329012
+  "timestamp": 1653482296
 }
