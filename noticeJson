@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1653700223,
-    "videoId": "5DBnOaOIi74",
-    "title": "陈一发儿：528——孙燕姿上海分姿 线上唱聊会  （罗大佑也不是不可以）",
-    "sch": 1653741000
+    "yt_ts": 1653762319
   },
   "ttv": {
-    "id": "39362712807",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "512953",
-    "game_name": "Elden Ring",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-05-28T12:36:20Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1653741405
+    "ttv_ts": 1653762551
   },
-  "timestamp": 1653741405
+  "timestamp": 1653762551
 }
