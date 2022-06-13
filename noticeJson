@@ -3,7 +3,23 @@
     "yt_ts": 1654968941
   },
   "ttv": {
-    "ttv_ts": 1655131757
+    "id": "39405201495",
+    "user_id": "633789740",
+    "user_login": "blablabla253874",
+    "user_name": "blablabla253874",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "test",
+    "viewer_count": 410,
+    "started_at": "2022-06-13T14:53:03Z",
+    "language": "en",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blablabla253874-{width}x{height}.jpg",
+    "tag_ids": [
+      "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1655132341
   },
-  "timestamp": 1655131757
+  "timestamp": 1655132341
 }
