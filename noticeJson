@@ -11,7 +11,7 @@
     "game_name": "",
     "type": "live",
     "title": "陈一发儿放映室'",
-    "viewer_count": 804,
+    "viewer_count": 635,
     "started_at": "2022-06-13T14:53:03Z",
     "language": "zh",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blablabla253874-{width}x{height}.jpg",
@@ -19,7 +19,7 @@
       "74c92063-a389-4fd2-8460-b1bb82b04ec7"
     ],
     "is_mature": false,
-    "ttv_ts": 1655135451
+    "ttv_ts": 1655140181
   },
-  "timestamp": 1655135451
+  "timestamp": 1655140181
 }
