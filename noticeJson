@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1655885607,
-    "videoId": "52eDsg77XCI",
-    "title": "陈一发儿：夏至…… 20220622",
-    "sch": 1655901000
+    "yt_ts": 1655923088
   },
   "ttv": {
-    "id": "39429128695",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-06-22T12:36:42Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1655901429
+    "ttv_ts": 1655923373
   },
-  "timestamp": 1655901429
+  "timestamp": 1655923373
 }
