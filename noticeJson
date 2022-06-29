@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1656464716,
-    "videoId": "bQ7nRJXCoVA",
-    "title": "陈一发儿：一个很热的周三 20220629",
-    "sch": 1656505800
+    "yt_ts": 1656524879
   },
   "ttv": {
-    "id": "39447837799",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-06-29T12:37:21Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1656506269
+    "ttv_ts": 1656525115
   },
-  "timestamp": 1656506269
+  "timestamp": 1656525115
 }
