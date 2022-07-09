@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1657326147,
-    "videoId": "l4yO0dEaVRc",
-    "title": "陈一发儿：炎热的周末 唱唱歌读读信20220709",
-    "sch": 1657369800
+    "yt_ts": 1657389341
   },
   "ttv": {
-    "id": "39474097559",
-    "user_id": "633789740",
-    "user_login": "blablabla253874",
-    "user_name": "blablabla253874",
-    "game_id": "",
-    "game_name": "",
-    "type": "live",
-    "title": "陈一发儿放映室'",
-    "viewer_count": 0,
-    "started_at": "2022-07-09T12:38:32Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blablabla253874-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1657370335
+    "ttv_ts": 1657389586
   },
-  "timestamp": 1657370335
+  "timestamp": 1657389586
 }
