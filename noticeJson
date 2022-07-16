@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1657736053
+    "yt_ts": 1657939689,
+    "videoId": "U5eLsn59vOQ",
+    "title": "陈一发儿： 夏日周末  家庭怀旧KTV~20220716",
+    "sch": 1657974600
   },
   "ttv": {
-    "ttv_ts": 1657736297
+    "id": "39492890903",
+    "user_id": "633789740",
+    "user_login": "blablabla253874",
+    "user_name": "blablabla253874",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "陈一发儿放映室'",
+    "viewer_count": 0,
+    "started_at": "2022-07-16T12:39:48Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blablabla253874-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1657975209
   },
-  "timestamp": 1657736297
+  "timestamp": 1657975209
 }
