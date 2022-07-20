@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1657995768
+    "yt_ts": 1658314928,
+    "videoId": "y0UVD6IwCKQ",
+    "title": "陈一发儿： Wednesday！ ~20220706",
+    "sch": 1658320200
   },
   "ttv": {
-    "ttv_ts": 1658167292
+    "id": "39503811415",
+    "user_id": "633789740",
+    "user_login": "blablabla253874",
+    "user_name": "blablabla253874",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "陈一发儿放映室'",
+    "viewer_count": 0,
+    "started_at": "2022-07-20T12:38:02Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blablabla253874-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1658320700
   },
-  "timestamp": 1658167292
+  "timestamp": 1658320700
 }
