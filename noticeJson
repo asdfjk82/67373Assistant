@@ -3,7 +3,21 @@
     "yt_ts": 1658597008
   },
   "ttv": {
-    "ttv_ts": 1658597253
+    "id": "39516982551",
+    "user_id": "633789740",
+    "user_login": "blablabla253874",
+    "user_name": "blablabla253874",
+    "game_id": "",
+    "game_name": "",
+    "type": "live",
+    "title": "陈一发儿放映室'",
+    "viewer_count": 0,
+    "started_at": "2022-07-25T13:07:36Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blablabla253874-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1658754484
   },
-  "timestamp": 1658597253
+  "timestamp": 1658754484
 }
