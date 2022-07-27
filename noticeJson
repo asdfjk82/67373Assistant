@@ -1,9 +1,25 @@
 {
   "yt": {
-    "yt_ts": 1658597008
+    "yt_ts": 1658925593,
+    "videoId": "IDcOCE9txrk",
+    "title": "陈一发儿： GAME NIGHT heng~20220727"
   },
   "ttv": {
-    "ttv_ts": 1658768836
+    "id": "39522053575",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-07-27T12:43:21Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1658925821
   },
-  "timestamp": 1658768836
+  "timestamp": 1658925821
 }
