@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1659144765,
-    "videoId": "q1rokAwrd4k",
-    "title": "陈一发儿： 七月份的尾巴~暑假快乐~20220730",
-    "sch": 1659184200
+    "yt_ts": 1659203039
   },
   "ttv": {
-    "id": "39530062423",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "518006",
-    "game_name": "Stray",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-07-30T12:39:10Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1659184776
+    "ttv_ts": 1659203279
   },
-  "timestamp": 1659184776
+  "timestamp": 1659203279
 }
