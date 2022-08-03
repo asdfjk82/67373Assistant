@@ -1,25 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1659530404,
-    "videoId": "dkYOUF6N3DY",
-    "title": "陈一发儿： 玩点儿小猫咪~GAME NIGHT ~20220803"
+    "yt_ts": 1659548627
   },
   "ttv": {
-    "id": "39540969623",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-08-03T12:40:06Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1659530427
+    "ttv_ts": 1659548868
   },
-  "timestamp": 1659530427
+  "timestamp": 1659548868
 }
