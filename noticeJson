@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1660414682
+    "yt_ts": 1660701903,
+    "videoId": "0eGQ2OaSAG0",
+    "title": "陈一发儿： 古德译文宁~ 20220817",
+    "sch": 1660739400
   },
   "ttv": {
-    "ttv_ts": 1660585665
+    "id": "39577180087",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-08-17T12:38:12Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1660739908
   },
-  "timestamp": 1660585665
+  "timestamp": 1660739908
 }
