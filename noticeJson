@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1660758193
+    "yt_ts": 1660962034,
+    "videoId": "BweDF-RPQHE",
+    "title": "陈一发儿：还好周末有这么会唱歌的台主哎  20220820",
+    "sch": 1660998600
   },
   "ttv": {
-    "ttv_ts": 1660758502
+    "id": "39585800919",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-08-20T12:38:35Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1660999141
   },
-  "timestamp": 1660758502
+  "timestamp": 1660999141
 }
