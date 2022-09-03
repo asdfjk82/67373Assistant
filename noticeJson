@@ -1,11 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1661949693,
-    "videoId": "9zxpXBlxsfY",
-    "title": "陈一发儿： 8月份的尾巴，华语高端女玩家正是在下,  GAME NIGHT ~20220831"
+    "yt_ts": 1662169679,
+    "videoId": "YTuDZD2dND4",
+    "title": "陈一发儿：这个周末你也在居家  20220903",
+    "sch": 1662208200
   },
   "ttv": {
-    "ttv_ts": 1661966706
+    "id": "39637116087",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-09-03T12:38:03Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1662208706
   },
-  "timestamp": 1661966706
+  "timestamp": 1662208706
 }
