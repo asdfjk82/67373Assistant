@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1662229040
+    "yt_ts": 1662524251,
+    "videoId": "99bdyteRxdo",
+    "title": "陈一发儿： 这个恐怖游戏恐怖吗 GAME NIGHT ~20220907",
+    "sch": 1662553800
   },
   "ttv": {
-    "ttv_ts": 1662399345
+    "id": "39649553255",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-09-07T12:38:58Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1662554363
   },
-  "timestamp": 1662399345
+  "timestamp": 1662554363
 }
