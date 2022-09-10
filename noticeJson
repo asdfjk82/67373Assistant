@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1662756674,
-    "videoId": "QLrs3muJ2fE",
-    "title": "陈一发儿：中秋快落，八周年快落~    20220911",
-    "sch": 1662813000
+    "yt_ts": 1662834974
   },
   "ttv": {
-    "id": "39659418663",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "2081287761",
-    "game_name": "The Bridge Curse: Road To Salvation",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-09-10T12:39:31Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1662813591
+    "ttv_ts": 1662835237
   },
-  "timestamp": 1662813591
+  "timestamp": 1662835237
 }
