@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1664041671
+    "yt_ts": 1664328025,
+    "videoId": "LO37DSYYiLQ",
+    "title": "陈一发儿：高端女玩家の《战神4》大结局！ GAME NIGHT ~20220928",
+    "sch": 1664368200
   },
   "ttv": {
-    "ttv_ts": 1664213320
+    "id": "39718284359",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-09-28T12:38:13Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1664368715
   },
-  "timestamp": 1664213320
+  "timestamp": 1664368715
 }
