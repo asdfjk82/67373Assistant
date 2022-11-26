@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1665164582
+    "yt_ts": 1669423854,
+    "videoId": "hxHuEj9lXf4",
+    "title": "陈一发儿：【全程直播】这世界那么多人  20221126",
+    "sch": 1669465800
   },
   "ttv": {
-    "ttv_ts": 1665413085
+    "id": "39877778487",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-11-26T12:40:02Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1669466418
   },
-  "timestamp": 1665413085
+  "timestamp": 1669466418
 }
