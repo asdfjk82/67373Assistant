@@ -1,9 +1,27 @@
 {
   "yt": {
-    "yt_ts": 1669657112
+    "yt_ts": 1669813868,
+    "videoId": "VSz9nYn3Keg",
+    "title": "陈一发儿：星期三  20221130"
   },
   "ttv": {
-    "ttv_ts": 1669657389
+    "id": "39887338455",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "102007682",
+    "game_name": "God of War Ragnarök",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-11-30T13:11:06Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [
+      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1669813886
   },
-  "timestamp": 1669657389
+  "timestamp": 1669813886
 }
