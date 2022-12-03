@@ -1,28 +1,11 @@
 {
   "yt": {
-    "yt_ts": 1670051356,
+    "yt_ts": 1670071134,
     "videoId": "LQRr8_WrAkk",
-    "title": "陈一发儿：周末好，没去成澳门，黄码了呜呜呜 20221203",
-    "sch": 1670070600
+    "title": "陈一发儿：周末好，没去成澳门，被黄码了呜呜呜 倒在黎明前 20221203"
   },
   "ttv": {
-    "id": "39894496359",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "102007682",
-    "game_name": "God of War Ragnarök",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-12-03T12:37:58Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [
-      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1670071095
+    "ttv_ts": 1670090550
   },
-  "timestamp": 1670071095
+  "timestamp": 1670090550
 }
