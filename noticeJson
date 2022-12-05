@@ -1,26 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1670239507,
-    "videoId": "g1TzkMe4EtA",
-    "title": "陈一发儿：硬核玩家，无情难度《战神：诸神黄昏》~  20221205",
-    "sch": 1670245200
+    "yt_ts": 1670259834
   },
   "ttv": {
-    "id": "39899514551",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-12-05T13:07:08Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": null,
-    "is_mature": false,
-    "ttv_ts": 1670245643
+    "ttv_ts": 1670260095
   },
-  "timestamp": 1670245643
+  "timestamp": 1670260095
 }
