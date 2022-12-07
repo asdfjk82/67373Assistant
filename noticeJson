@@ -1,28 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1670410089,
-    "videoId": "ggzbdGqIdVk",
-    "title": "陈一发儿：晚上吼~  20221207",
-    "sch": 1670416200
+    "yt_ts": 1670436212
   },
   "ttv": {
-    "id": "39904263255",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-12-07T12:37:59Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [
-      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1670416695
+    "ttv_ts": 1670436472
   },
-  "timestamp": 1670416695
+  "timestamp": 1670436472
 }
