@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1670436212
+    "yt_ts": 1670634782,
+    "videoId": "U2R-rqiZNH4",
+    "title": "陈一发儿：羊了个羊，大家周末吼  20221210",
+    "sch": 1670675400
   },
   "ttv": {
-    "ttv_ts": 1670436472
+    "id": "39912257847",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "102007682",
+    "game_name": "God of War Ragnarök",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-12-10T12:42:32Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": null,
+    "is_mature": false,
+    "ttv_ts": 1670676167
   },
-  "timestamp": 1670436472
+  "timestamp": 1670676167
 }
