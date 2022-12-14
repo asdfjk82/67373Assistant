@@ -1,28 +1,11 @@
 {
   "yt": {
-    "yt_ts": 1671019093,
+    "yt_ts": 1671021687,
     "videoId": "FQQ7wllrJ7k",
-    "title": "陈一发儿：How are  you~ （无情难度《战神：诸神黄昏》）~  20221214",
-    "sch": 1671021000
+    "title": "陈一发儿：How are  you~ （无情难度《战神：诸神黄昏》）~  20221214"
   },
   "ttv": {
-    "id": "39922563271",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2022-12-14T12:40:08Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [
-      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1671021621
+    "ttv_ts": 1671026589
   },
-  "timestamp": 1671021621
+  "timestamp": 1671026589
 }
