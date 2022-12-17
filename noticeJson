@@ -1,9 +1,31 @@
 {
   "yt": {
-    "yt_ts": 1671041740
+    "yt_ts": 1671242955,
+    "videoId": "jqJqnRRsvsU",
+    "title": "陈一发儿：大家周末还好吗  20221217",
+    "sch": 1671280200
   },
   "ttv": {
-    "ttv_ts": 1671042025
+    "id": "39930455831",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-12-17T12:39:23Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [
+      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
+    ],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1671280783
   },
-  "timestamp": 1671042025
+  "timestamp": 1671280783
 }
