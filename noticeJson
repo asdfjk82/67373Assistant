@@ -1,9 +1,31 @@
 {
   "yt": {
-    "yt_ts": 1671300218
+    "yt_ts": 1671615221,
+    "videoId": "zOWUCYh2RUA",
+    "title": "陈一发儿：雷猴吗，我还好~ （无情难度《战神：诸神黄昏》）~  20221221【直播全程】",
+    "sch": 1671625800
   },
   "ttv": {
-    "ttv_ts": 1671389646
+    "id": "39940388023",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2022-12-21T12:39:24Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [
+      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
+    ],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1671626387
   },
-  "timestamp": 1671389646
+  "timestamp": 1671626387
 }
