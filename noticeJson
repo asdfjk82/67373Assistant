@@ -1,31 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1673051389,
-    "videoId": "_r0WkwIjMjY",
-    "title": "陈一发儿：聊聊天唱唱歌~   20230107",
-    "sch": 1673094600
+    "yt_ts": 1673117237
   },
   "ttv": {
-    "id": "39979723063",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-01-07T12:38:32Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [
-      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
-    ],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1673095128
+    "ttv_ts": 1673117494
   },
-  "timestamp": 1673095128
+  "timestamp": 1673117494
 }
