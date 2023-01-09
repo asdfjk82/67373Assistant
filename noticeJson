@@ -1,31 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1673262513,
-    "videoId": "Wi0wgI6tNrU",
-    "title": "陈一发儿：哈喽晚上好呀~   20230109",
-    "sch": 1673267400
+    "yt_ts": 1673288062
   },
   "ttv": {
-    "id": "39984634903",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 15,
-    "started_at": "2023-01-09T12:36:46Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [
-      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
-    ],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1673267819
+    "ttv_ts": 1673288323
   },
-  "timestamp": 1673267819
+  "timestamp": 1673288323
 }
