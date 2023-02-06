@@ -1,31 +1,11 @@
 {
   "yt": {
-    "yt_ts": 1675675037,
+    "yt_ts": 1675687248,
     "videoId": "eIvNVR6rZfY",
-    "title": "陈一发儿：siu一下油管都开播两年了   20230206",
-    "sch": 1675690200
+    "title": "陈一发儿：siu一下油管都开播两年了   20230206"
   },
   "ttv": {
-    "id": "40055447767",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-02-06T12:40:01Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [
-      "74c92063-a389-4fd2-8460-b1bb82b04ec7"
-    ],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1675687222
+    "ttv_ts": 1675695355
   },
-  "timestamp": 1675687222
+  "timestamp": 1675695355
 }
