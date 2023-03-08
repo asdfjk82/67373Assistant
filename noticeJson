@@ -1,11 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1678106441,
-    "videoId": "d-I_pazPKLo",
-    "title": "陈一发儿：周一了！ 20230306"
+    "yt_ts": 1678279290,
+    "videoId": "yRhl8Q4h_zI",
+    "title": "陈一发儿：38妇女节快乐~~20230308"
   },
   "ttv": {
-    "ttv_ts": 1678113364
+    "id": "40134014359",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-03-08T12:52:31Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1678279960
   },
-  "timestamp": 1678113364
+  "timestamp": 1678279960
 }
