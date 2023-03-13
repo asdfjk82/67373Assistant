@@ -1,29 +1,11 @@
 {
   "yt": {
-    "yt_ts": 1678701234,
+    "yt_ts": 1678711198,
     "videoId": "daqP7xVWl50",
-    "title": "陈一发儿：周一的买家秀与看电影~20230313",
-    "sch": 1678710600
+    "title": "陈一发儿：周一的买家秀与看电影~20230313"
   },
   "ttv": {
-    "id": "40147421159",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-03-13T12:38:34Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1678711129
+    "ttv_ts": 1678717455
   },
-  "timestamp": 1678711129
+  "timestamp": 1678717455
 }
