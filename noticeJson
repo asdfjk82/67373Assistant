@@ -1,11 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1679316298,
-    "videoId": "PIyhHW3vq8M",
-    "title": "陈一发儿：又到了每周一的一起看环节~~20230320"
+    "yt_ts": 1679488879,
+    "videoId": "Iajwh9a1NA0",
+    "title": "陈一发儿：Wednesday！~~感冒了，医生说打打游戏撸撸猫就好了 20230322"
   },
   "ttv": {
-    "ttv_ts": 1679321694
+    "id": "40171044455",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-03-22T12:45:06Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1679489120
   },
-  "timestamp": 1679321694
+  "timestamp": 1679489120
 }
