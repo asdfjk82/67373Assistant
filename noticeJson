@@ -1,9 +1,29 @@
 {
   "yt": {
-    "yt_ts": 1680112576
+    "yt_ts": 1680344089,
+    "videoId": "t131F6V05EU",
+    "title": "陈一发儿：四月一日，各位小鱼人节日快乐~~20230401",
+    "sch": 1680352200
   },
   "ttv": {
-    "ttv_ts": 1680112778
+    "id": "40196228679",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-04-01T12:39:59Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1680352815
   },
-  "timestamp": 1680112778
+  "timestamp": 1680352815
 }
