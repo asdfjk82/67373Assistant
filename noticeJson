@@ -5,7 +5,22 @@
     "title": "陈一发儿：又是一个有小德的周三咧    生化危机4 重制版 20230412"
   },
   "ttv": {
-    "ttv_ts": 1681318362
+    "id": "40224793575",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-04-12T17:06:33Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1681319208
   },
-  "timestamp": 1681318362
+  "timestamp": 1681319208
 }
