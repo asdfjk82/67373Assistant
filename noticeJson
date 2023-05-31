@@ -1,9 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1685210697
+    "yt_ts": 1685536799,
+    "videoId": "4IM1C11W7UM",
+    "title": "陈一发儿： 《生化危机4重制版》~  20230531"
   },
   "ttv": {
-    "ttv_ts": 1685210966
+    "id": "40349242343",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-05-31T14:13:34Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1685542435
   },
-  "timestamp": 1685210966
+  "timestamp": 1685542435
 }
