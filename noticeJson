@@ -1,11 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1685968933,
-    "videoId": "wO4m7Tcul-0",
-    "title": "陈一发儿：周一放映室~  20230605"
+    "yt_ts": 1686141432,
+    "videoId": "Hkj2STkSvGo",
+    "title": "陈一发儿： 《生化危机4重制版》大结局 ~  20230607"
   },
   "ttv": {
-    "ttv_ts": 1685973839
+    "id": "42291035979",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-06-07T12:40:01Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1686141619
   },
-  "timestamp": 1685973839
+  "timestamp": 1686141619
 }
