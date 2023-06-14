@@ -5,7 +5,24 @@
     "title": "陈一发儿：only up? Diablo  4？20230614"
   },
   "ttv": {
-    "ttv_ts": 1686751738
+    "id": "40371604071",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-06-14T15:04:08Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1686755065
   },
-  "timestamp": 1686751738
+  "timestamp": 1686755065
 }
