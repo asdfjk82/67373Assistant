@@ -1,33 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1687524195,
-    "videoId": "4bKrbbY5Yg0",
-    "title": "陈一发儿：端午快乐！这次假期周五播~ 20230623"
+    "yt_ts": 1687542934
   },
   "ttv": {
-    "id": "40394610455",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-06-23T13:48:24Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文",
-      "游戏",
-      "脱口秀",
-      "音乐",
-      "歌手",
-      "宠物"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1687528119
+    "ttv_ts": 1687543247
   },
-  "timestamp": 1687528119
+  "timestamp": 1687543247
 }
