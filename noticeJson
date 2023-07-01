@@ -1,11 +1,34 @@
 {
   "yt": {
-    "yt_ts": 1687955913,
-    "videoId": "0FkVyHVkxwA",
-    "title": "陈一发儿：2023只剩半年啦！  20230628"
+    "yt_ts": 1688204956,
+    "videoId": "cKz0WxVJZmI",
+    "title": "陈一发儿：Happy July~电脑修了三天三夜修好了！但也可以偶尔客厅播一下618买家秀~  20230701",
+    "sch": 1688214600
   },
   "ttv": {
-    "ttv_ts": 1687962610
+    "id": "40414977223",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-07-01T12:47:23Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文",
+      "游戏",
+      "脱口秀",
+      "音乐",
+      "歌手",
+      "宠物"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1688215662
   },
-  "timestamp": 1687962610
+  "timestamp": 1688215662
 }
