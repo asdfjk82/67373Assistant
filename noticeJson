@@ -1,9 +1,33 @@
 {
   "yt": {
-    "yt_ts": 1688579096
+    "yt_ts": 1688820208,
+    "videoId": "fmIm-eyQgco",
+    "title": "陈一发儿：Good Evening   20230708"
   },
   "ttv": {
-    "ttv_ts": 1688579351
+    "id": "40433796711",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-07-08T12:53:33Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文",
+      "游戏",
+      "脱口秀",
+      "音乐",
+      "歌手",
+      "宠物"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1688820832
   },
-  "timestamp": 1688579351
+  "timestamp": 1688820832
 }
