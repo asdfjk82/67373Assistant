@@ -1,33 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1692189301,
-    "videoId": "pOhHkF4VtRw",
-    "title": "陈一发儿：和宝子们的每一个周三~~   20230816"
+    "yt_ts": 1692209272
   },
   "ttv": {
-    "id": "40535672151",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-08-16T12:34:53Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文",
-      "游戏",
-      "脱口秀",
-      "音乐",
-      "歌手",
-      "宠物"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1692189315
+    "ttv_ts": 1692209601
   },
-  "timestamp": 1692189315
+  "timestamp": 1692209601
 }
