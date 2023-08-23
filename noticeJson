@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1692627790
+    "yt_ts": 1692794450,
+    "videoId": "5lXWrifD6XA",
+    "title": "陈一发儿：聊聊天  PS5 启动！ 20230823"
   },
   "ttv": {
-    "ttv_ts": 1692627805
+    "id": "40555103271",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-08-23T12:41:17Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1692794490
   },
-  "timestamp": 1692627805
+  "timestamp": 1692794490
 }
