@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1692816771
+    "yt_ts": 1693053398,
+    "videoId": "Zz_IZWAIDnc",
+    "title": "陈一发儿：久违的邮件环节！   20230826"
   },
   "ttv": {
-    "ttv_ts": 1692817092
+    "id": "40563227879",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-08-26T12:44:18Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1693053872
   },
-  "timestamp": 1692817092
+  "timestamp": 1693053872
 }
