@@ -1,9 +1,33 @@
 {
   "yt": {
-    "yt_ts": 1693231658
+    "yt_ts": 1693398974,
+    "videoId": "3RV0Ht03rV0",
+    "title": "陈一发儿：我觉得我今天战神5快要大结局了（梦里中远海控涨停）~20230830"
   },
   "ttv": {
-    "ttv_ts": 1693231686
+    "id": "40573681495",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-08-30T12:52:19Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文",
+      "游戏",
+      "脱口秀",
+      "音乐",
+      "歌手",
+      "宠物"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1693399959
   },
-  "timestamp": 1693231686
+  "timestamp": 1693399959
 }
