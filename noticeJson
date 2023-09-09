@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1694027006
+    "yt_ts": 1694263245,
+    "videoId": "lb_8FwNrI1g",
+    "title": "陈一发儿：周末的家庭KTV ！20230909"
   },
   "ttv": {
-    "ttv_ts": 1694027323
+    "id": "40599700583",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-09-09T12:52:42Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1694263975
   },
-  "timestamp": 1694027323
+  "timestamp": 1694263975
 }
