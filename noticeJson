@@ -1,33 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1696250450,
-    "videoId": "daEIzk2XqL0",
-    "title": "陈一发儿：周一放映室~ 佳片有约，假期快乐~~20230925（20231002）"
+    "yt_ts": 1696254152
   },
   "ttv": {
-    "id": "40683292151",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-10-02T12:40:27Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文",
-      "游戏",
-      "脱口秀",
-      "音乐",
-      "歌手",
-      "宠物"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1696250447
+    "ttv_ts": 1696254222
   },
-  "timestamp": 1696250450
+  "timestamp": 1696254222
 }
