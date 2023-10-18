@@ -1,33 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1697632819,
-    "videoId": "I_CqFYyhSCg",
-    "title": "陈一发儿：《只狼》就这？Sekiro: Shadows Die Twice ----Too Simple~20231018"
+    "yt_ts": 1697651470
   },
   "ttv": {
-    "id": "40726660103",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-10-18T12:42:57Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文",
-      "游戏",
-      "脱口秀",
-      "音乐",
-      "歌手",
-      "宠物"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1697632999
+    "ttv_ts": 1697651783
   },
-  "timestamp": 1697632999
+  "timestamp": 1697651783
 }
