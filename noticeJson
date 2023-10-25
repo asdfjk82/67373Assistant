@@ -1,33 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1698237670,
-    "videoId": "YSnyB-HAiic",
-    "title": "陈一发儿：《只狼》弦一郎就这？Sekiro: Shadows Die Twice ---~20231025"
+    "yt_ts": 1698259114
   },
   "ttv": {
-    "id": "40744322071",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-10-25T12:41:06Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文",
-      "游戏",
-      "脱口秀",
-      "音乐",
-      "歌手",
-      "宠物"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1698237689
+    "ttv_ts": 1698259422
   },
-  "timestamp": 1698237689
+  "timestamp": 1698259422
 }
