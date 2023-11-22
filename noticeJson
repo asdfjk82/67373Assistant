@@ -1,9 +1,33 @@
 {
   "yt": {
-    "yt_ts": 1700488769
+    "yt_ts": 1700656908,
+    "videoId": "CpGAx2lefzE",
+    "title": "陈一发儿：只狼真是一个简单的游戏   20231122"
   },
   "ttv": {
-    "ttv_ts": 1700488777
+    "id": "40817800471",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-11-22T12:48:52Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文",
+      "游戏",
+      "脱口秀",
+      "音乐",
+      "歌手",
+      "宠物"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1700657349
   },
-  "timestamp": 1700488777
+  "timestamp": 1700657349
 }
