@@ -1,33 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1702125963,
-    "videoId": "VJhY31eCHZE",
-    "title": "陈一发儿：Good evening Good weekend 20231209"
+    "yt_ts": 1702144118
   },
   "ttv": {
-    "id": "40868136023",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2023-12-09T12:52:30Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文",
-      "游戏",
-      "脱口秀",
-      "音乐",
-      "歌手",
-      "宠物"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1702126370
+    "ttv_ts": 1702144435
   },
-  "timestamp": 1702126370
+  "timestamp": 1702144435
 }
