@@ -1,9 +1,33 @@
 {
   "yt": {
-    "yt_ts": 1703701156
+    "yt_ts": 1703940053,
+    "videoId": "jkoS2zIsD4w",
+    "title": "陈一发儿：新年快乐~！周六周日跨年直播噢~   20231230"
   },
   "ttv": {
-    "ttv_ts": 1703701470
+    "id": "40930146055",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2023-12-30T13:00:26Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文",
+      "游戏",
+      "脱口秀",
+      "音乐",
+      "歌手",
+      "宠物"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1703941240
   },
-  "timestamp": 1703701470
+  "timestamp": 1703941240
 }
