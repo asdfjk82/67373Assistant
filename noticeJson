@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1704903502
+    "yt_ts": 1705149541,
+    "videoId": "_j4QkpxnQdo",
+    "title": "陈一发儿：周末好呀听听歌~~20240113"
   },
   "ttv": {
-    "ttv_ts": 1704903557
+    "id": "40971117767",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-01-13T12:42:36Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1705149767
   },
-  "timestamp": 1704903557
+  "timestamp": 1705149767
 }
