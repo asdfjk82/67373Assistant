@@ -1,28 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1710592769,
-    "videoId": "JPv-zKOxX_w",
-    "title": "陈一发儿：67373黄金眼，316晚会  （20240316）"
+    "yt_ts": 1710611376
   },
   "ttv": {
-    "id": "41146231207",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-03-16T12:53:53Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1710593653
+    "ttv_ts": 1710611688
   },
-  "timestamp": 1710593653
+  "timestamp": 1710611688
 }
