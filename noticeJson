@@ -1,11 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1710938507,
-    "videoId": "XsTQT-w_gIA",
-    "title": "陈一发儿：最后生还者重制版    一个真正的唱歌&amp;游戏高手哼  A real game master 20240320"
+    "yt_ts": 1711197839,
+    "videoId": "ceYOASrg5lc",
+    "title": "陈一发儿：今天聊点儿啥唱点儿啥，三体？歌神演唱会？邮件~？  （20240323）"
   },
   "ttv": {
-    "ttv_ts": 1710956694
+    "id": "41164771703",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-03-23T12:53:05Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1711198399
   },
-  "timestamp": 1710956694
+  "timestamp": 1711198399
 }
