@@ -1,11 +1,11 @@
 {
   "yt": {
-    "yt_ts": 1711543475,
-    "videoId": "Itvdb0rutkU",
-    "title": "陈一发儿：最后生还者重制版高难度大结局    一个真正的唱歌&amp;游戏高手哼  A real game master 20240327"
+    "yt_ts": 1711802572,
+    "videoId": "rfv6wDaHDTA",
+    "title": "陈一发儿：春暖花开 三月结束了  （20240330）"
   },
   "ttv": {
-    "id": "41175354647",
+    "id": "41183817447",
     "user_id": "687964576",
     "user_login": "thebs_chen",
     "user_name": "陈一发儿放映室",
@@ -14,7 +14,7 @@
     "type": "live",
     "title": "开播通知群：电报：t.me/FaFa67373",
     "viewer_count": 0,
-    "started_at": "2024-03-27T12:46:17Z",
+    "started_at": "2024-03-30T12:55:18Z",
     "language": "zh",
     "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
     "tag_ids": [],
@@ -22,7 +22,7 @@
       "中文"
     ],
     "is_mature": false,
-    "ttv_ts": 1711543589
+    "ttv_ts": 1711803336
   },
-  "timestamp": 1711543589
+  "timestamp": 1711803336
 }
