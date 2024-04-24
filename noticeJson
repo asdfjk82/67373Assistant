@@ -1,11 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1713789640,
-    "videoId": "bgyHQIQ6n8Y",
-    "title": "陈一发儿：周一放映室~佳片有约の今天看点儿啥 ~（20240422）"
+    "yt_ts": 1713962531,
+    "videoId": "Zb-pBn5rvyQ",
+    "title": "陈一发儿：最后生还者2重制版高难度    一个真正的唱歌&amp;游戏高手哼  A real game master 20240424"
   },
   "ttv": {
-    "ttv_ts": 1713793933
+    "id": "41247105511",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-04-24T12:43:40Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1713962636
   },
-  "timestamp": 1713793933
+  "timestamp": 1713962636
 }
