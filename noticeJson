@@ -1,28 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1714222015,
-    "videoId": "O82rsCBs8-4",
-    "title": "陈一发儿：周末好，聊聊天唱唱歌弹弹琴 ~（20240427）"
+    "yt_ts": 1714240606
   },
   "ttv": {
-    "id": "41254722999",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-04-27T12:48:30Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1714222136
+    "ttv_ts": 1714240923
   },
-  "timestamp": 1714222136
+  "timestamp": 1714240923
 }
