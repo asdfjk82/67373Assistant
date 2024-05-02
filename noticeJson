@@ -1,28 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1714653857,
-    "videoId": "SKi9QbT79P0",
-    "title": "陈一发儿：假期出游人太多不如在家看直播~  20240502"
+    "yt_ts": 1714676310
   },
   "ttv": {
-    "id": "41267123127",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-05-02T12:44:20Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1714653877
+    "ttv_ts": 1714676312
   },
-  "timestamp": 1714653877
+  "timestamp": 1714676312
 }
