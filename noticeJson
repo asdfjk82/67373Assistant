@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1715190599
+    "yt_ts": 1715431423,
+    "videoId": "g5dktSNugoY",
+    "title": "陈一发儿：辛苦了，又过了一个星期~20240511"
   },
   "ttv": {
-    "ttv_ts": 1715190915
+    "id": "41289645895",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-05-11T12:48:43Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1715431734
   },
-  "timestamp": 1715190915
+  "timestamp": 1715431734
 }
