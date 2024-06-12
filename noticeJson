@@ -1,9 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1718027591
+    "yt_ts": 1718195900,
+    "videoId": "4SMKM--7oeo",
+    "title": "陈一发儿： 恐怖剧情游戏：黑相集：灰冥界 20240612"
   },
   "ttv": {
-    "ttv_ts": 1718027588
+    "id": "41366312231",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-06-12T12:38:49Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1718195948
   },
-  "timestamp": 1718027591
+  "timestamp": 1718195948
 }
