@@ -1,28 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1720874613,
-    "videoId": "m8nButUrSYk",
-    "title": "陈一发儿：辣些观众周末好~  20240713"
+    "yt_ts": 1720894620
   },
   "ttv": {
-    "id": "41442012647",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-07-13T12:49:11Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1720874967
+    "ttv_ts": 1720894916
   },
-  "timestamp": 1720874967
+  "timestamp": 1720894916
 }
