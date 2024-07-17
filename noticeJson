@@ -1,28 +1,9 @@
 {
   "yt": {
-    "yt_ts": 1721220211,
-    "videoId": "jS9m15sGjD4",
-    "title": "陈一发儿：一口气单挑干掉DLC?个boss，什么叫高端玩家啊～艾尔登法环 DLC 黄金树幽影~（20240717）"
+    "yt_ts": 1721239144
   },
   "ttv": {
-    "id": "41451618567",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-07-17T12:49:23Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1721220585
+    "ttv_ts": 1721239445
   },
-  "timestamp": 1721220585
+  "timestamp": 1721239445
 }
