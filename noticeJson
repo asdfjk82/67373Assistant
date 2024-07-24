@@ -1,9 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1721655989
+    "yt_ts": 1721826218,
+    "videoId": "Roo29R0zLp8",
+    "title": "陈一发儿：明天去日本旅游啦，周六不一定播看情况，～艾尔登法环 DLC 黄金树幽影~（20240717）"
   },
   "ttv": {
-    "ttv_ts": 1721656036
+    "id": "41468896231",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-07-24T13:05:41Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1721826358
   },
-  "timestamp": 1721656036
+  "timestamp": 1721826358
 }
