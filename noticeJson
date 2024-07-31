@@ -1,9 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1721841757
+    "yt_ts": 1722429848,
+    "videoId": "uRBkW4T2yME",
+    "title": "陈一发儿：回上海啦，拉塔恩你怕了未，什么叫高端玩家啊～艾尔登法环 DLC 黄金树幽影~（20240731）"
   },
   "ttv": {
-    "ttv_ts": 1721841827
+    "id": "41485595367",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-07-31T12:54:44Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1722430502
   },
-  "timestamp": 1721841827
+  "timestamp": 1722430502
 }
