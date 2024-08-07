@@ -1,9 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1722865341
+    "yt_ts": 1723034672,
+    "videoId": "xByOXBiwDIA",
+    "title": "陈一发儿：是单挑拉塔恩的高端玩家一枚呀～艾尔登法环 DLC 黄金树幽影~（20240807）"
   },
   "ttv": {
-    "ttv_ts": 1722865361
+    "id": "41502377383",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-08-07T12:45:02Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1723034717
   },
-  "timestamp": 1722865361
+  "timestamp": 1723034717
 }
