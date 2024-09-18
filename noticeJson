@@ -1,11 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1726490650,
-    "videoId": "Ckh6edkdOgk",
-    "title": "陈一发儿：~台风天中秋节~佳片有约の今天看点儿啥 （20240916）"
+    "yt_ts": 1726663421,
+    "videoId": "vfBOc1Uw3xg",
+    "title": "陈一发儿：周日游戏日错峰玩一下黑悟空（20240918）"
   },
   "ttv": {
-    "ttv_ts": 1726495023
+    "id": "44831844075",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-09-18T12:47:38Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1726663678
   },
-  "timestamp": 1726495023
+  "timestamp": 1726663678
 }
