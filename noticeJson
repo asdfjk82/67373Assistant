@@ -1,11 +1,26 @@
 {
   "yt": {
-    "yt_ts": 1726663421,
-    "videoId": "vfBOc1Uw3xg",
-    "title": "陈一发儿：周日游戏日错峰玩一下黑悟空（20240918）"
+    "yt_ts": 1726922738,
+    "videoId": "3v75rDE4RFs",
+    "title": "陈一发儿：唱歌最好听的游戏财经博主~（20240921）"
   },
   "ttv": {
-    "ttv_ts": 1726683566
+    "id": "41606999111",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-09-21T12:47:46Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": null,
+    "is_mature": false,
+    "ttv_ts": 1726922879
   },
-  "timestamp": 1726683566
+  "timestamp": 1726922879
 }
