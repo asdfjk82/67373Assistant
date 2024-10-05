@@ -1,12 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1727956058,
-    "videoId": "BbkltQgDOtU",
-    "title": "陈一发儿：国庆加个班~这是黑神话悟空还是宝宝巴士也太简单了（20241003）",
-    "sch": 1727962200
+    "yt_ts": 1728132124,
+    "videoId": "Z0nAK_938eY",
+    "title": "陈一发儿： ~ 假期过半~周末愉快~（20241005）"
   },
   "ttv": {
-    "ttv_ts": 1727980480
+    "id": "41640327591",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-10-05T12:43:15Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1728132219
   },
-  "timestamp": 1727980480
+  "timestamp": 1728132219
 }
