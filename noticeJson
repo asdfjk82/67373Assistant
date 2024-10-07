@@ -5,24 +5,7 @@
     "title": "陈一发儿：~明天上班啦~佳片有约の今天看点儿啥 ~（20240930）"
   },
   "ttv": {
-    "id": "41645022039",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-10-07T12:48:01Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1728305306
+    "ttv_ts": 1728308596
   },
-  "timestamp": 1728305306
+  "timestamp": 1728308596
 }
