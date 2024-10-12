@@ -5,24 +5,7 @@
     "title": "陈一发儿： 六边形博主小陈（20241013）"
   },
   "ttv": {
-    "id": "41657266231",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "509658",
-    "game_name": "Just Chatting",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2024-10-12T16:06:14Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": [
-      "中文"
-    ],
-    "is_mature": false,
-    "ttv_ts": 1728749195
+    "ttv_ts": 1728750506
   },
-  "timestamp": 1728749195
+  "timestamp": 1728750506
 }
