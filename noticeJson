@@ -1,11 +1,28 @@
 {
   "yt": {
-    "yt_ts": 1732106888,
-    "videoId": "J9jc_vRW_OE",
-    "title": "陈一发儿：双十一结束来点小胖子买家秀~20241120"
+    "yt_ts": 1732365850,
+    "videoId": "LAYbyycKUeE",
+    "title": "陈一发儿：嗯嗯（20241123）"
   },
   "ttv": {
-    "ttv_ts": 1732114635
+    "id": "41754372743",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "509658",
+    "game_name": "Just Chatting",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2024-11-23T12:54:13Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1732366468
   },
-  "timestamp": 1732114635
+  "timestamp": 1732366468
 }
