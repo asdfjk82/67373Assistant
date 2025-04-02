@@ -3,22 +3,7 @@
     "yt_ts": 1732558044
   },
   "ttv": {
-    "id": "314223992681",
-    "user_id": "687964576",
-    "user_login": "thebs_chen",
-    "user_name": "陈一发儿放映室",
-    "game_id": "1286077738",
-    "game_name": "Monster Hunter Wilds",
-    "type": "live",
-    "title": "开播通知群：电报：t.me/FaFa67373",
-    "viewer_count": 0,
-    "started_at": "2025-04-02T13:00:22Z",
-    "language": "zh",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
-    "tag_ids": [],
-    "tags": null,
-    "is_mature": false,
-    "ttv_ts": 1743598834
+    "ttv_ts": 1743617895
   },
-  "timestamp": 1743598834
+  "timestamp": 1743617895
 }
