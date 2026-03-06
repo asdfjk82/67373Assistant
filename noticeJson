@@ -3,7 +3,25 @@
     "yt_ts": 1732558044
   },
   "ttv": {
-    "ttv_ts": 1772634232
+    "id": "315578834418",
+    "user_id": "687964576",
+    "user_login": "thebs_chen",
+    "user_name": "陈一发儿放映室",
+    "game_id": "1597660489",
+    "game_name": "RESIDENT EVIL: requiem",
+    "type": "live",
+    "title": "开播通知群：电报：t.me/FaFa67373",
+    "viewer_count": 0,
+    "started_at": "2026-03-06T13:09:21Z",
+    "language": "zh",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebs_chen-{width}x{height}.jpg",
+    "tag_ids": [],
+    "tags": [
+      "中文",
+      "启用掉宝"
+    ],
+    "is_mature": false,
+    "ttv_ts": 1772802574
   },
-  "timestamp": 1772634232
+  "timestamp": 1772802574
 }
